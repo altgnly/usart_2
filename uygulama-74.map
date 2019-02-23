@@ -1,0 +1,42 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Dec 06 23:56:25 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000080
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00003f      
+            64 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  GECIKME   0x000037    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  KONTROL   0x000013    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                KONTROL_2   0x000036    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  TEKRAR1   0x000039    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  TEKRAR2   0x00003b    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  KONTROL   0x000013    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                KONTROL_2   0x000036    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  GECIKME   0x000037    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  TEKRAR1   0x000039    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+                  TEKRAR2   0x00003b    program     static D:\mikroislemciler\2018GuzDonemi\74.uygulama\uygulama-74.asm
+
+
